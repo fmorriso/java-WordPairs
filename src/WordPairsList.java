@@ -8,7 +8,7 @@ public class WordPairsList
     {
         // WRITE YOUR CODE HERE
         // initialize allPairs to an empty ArrayList of WordPair objects
-        this.allPairs = new ArrayList<WordPair>();
+        allPairs = new ArrayList<WordPair>();
 
         // nested loops through the words array to add each pair to allPairs
         String current, next;
