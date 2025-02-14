@@ -3,11 +3,11 @@
 
 ## Tools Used
 
-| Tool     |   Version |
-|:---------|----------:|
-| Java     |  23.0.2.0 |
-| IntelliJ | 2024.3.2.2|
-| VSCode   |    1.97.0 |
+| Tool     |  Version |
+|:---------|---------:|
+| Java     | 23.0.2.0 |
+| IntelliJ | 2024.3.3 |
+| VSCode   |   1.97.1 |
 
 ## Change History
 
